@@ -14,5 +14,12 @@
         {
             NUnit.Framework.Assert.AreEqual(1, 1);
         }
+
+        [NUnit.Framework.Test]
+        public void ThirdTest()
+        {
+            NUnit.Framework.Assert.AreEqual(1, 1);
+        }
+
     }
 }
