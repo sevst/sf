@@ -7,6 +7,7 @@ using Microsoft.ServiceFabric.Services.Runtime;
 
 namespace Stateless
 {
+
     internal static class Program
     {
         /// <summary>
